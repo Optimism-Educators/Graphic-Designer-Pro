@@ -1,14 +1,14 @@
 # Graphic-Designer-Pro
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-[![Build Status](https://travis-ci.org/gztchan/awesome-design.svg?branch=master)](https://travis-ci.org/gztchan/awesome-design)
-[![PRs & Issues Welcome](https://img.shields.io/badge/PRs%20&%20Issues-welcome-brightgreen.svg)](https://github.com/gztchan/awesome-design/pulls)
+
+[![PRs & Issues Welcome](https://img.shields.io/badge/PRs%20&%20Issues-welcome-brightgreen.svg)](https://github.com/Optimism-Educators/Graphic-Designer-Pro/pulls)
 
 > Graphic Designer Pro focuses on collecting high quality resources and tools which can be used by UI/UX designers in daily work. Thanks to the community,
 the repo keeps being updated continuously from people around the world who provide amazing resources.
 Don't hesitate to open an [issue](https://github.com/Optimism-Educators/Graphic-Designer-Pro/issues/new) or create [pull request](https://github.com/Optimism-Educators/Graphic-Designer-Pron/pulls) to share your intelligence.
 
-<a href="#"><img align="center" src="./graphic.gif"></a>
+<a href="#"><img align="center" src="./gifs/graphic design.gif"></a>
 
 ## What should I do with the curated resources?
 
