@@ -10,7 +10,7 @@
 the repo keeps being updated continuously from people around the world who provide amazing resources.
 Don't hesitate to open an [issue](https://github.com/Optimism-Educators/Graphic-Designer-Pro/issues/new) or create [pull request](https://github.com/Optimism-Educators/Graphic-Designer-Pron/pulls) to share your intelligence.
 
-<a align="center" href="#"><img align="center" height=300px src="./gifs/graphic-designing (1).gif"></a>
+<a href="#"><img align="center"  src="./gifs/graphic design.gif"></a>
 
 ## What should I do with the curated resources?
 
