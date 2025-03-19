@@ -1,8 +1,10 @@
 # Graphic-Designer-Pro
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-
-[![PRs & Issues Welcome](https://img.shields.io/badge/PRs%20&%20Issues-welcome-brightgreen.svg)](https://github.com/Optimism-Educators/Graphic-Designer-Pro/pulls)
+[![PRs & Welcome](https://img.shields.io/badge/PRs%20-welcome-brightgreen.svg)](https://github.com/Optimism-Educators/Graphic-Designer-Pro/pulls)
+[![Issue & Welcome](https://img.shields.io/badge/Issue%20-welcome-brightgreen.svg)](https://github.com/Optimism-Educators/Graphic-Designer-Pro/issues/new)
+[![Fork & Welcome](https://img.shields.io/badge/Fork%20-welcome-brightgreen.svg)](https://github.com/Optimism-Educators/Graphic-Designer-Pro/fork)
+[![Discucion & Welcome](https://img.shields.io/badge/Discussions%20-welcome-brightgreen.svg)](https://github.com/Optimism-Educators/Graphic-Designer-Pro/discussions)
 
 > Graphic Designer Pro focuses on collecting high quality resources and tools which can be used by UI/UX designers in daily work. Thanks to the community,
 the repo keeps being updated continuously from people around the world who provide amazing resources.
